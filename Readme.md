@@ -15,7 +15,7 @@ Atualmente estou focada em aprender novas tecnologias e melhorar minhas habilida
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://www.linkedin.com/in/ana-sarah-cassimiro-fagundes-35575b2a9/)
+[![LinkedIn]https://www.linkedin.com/in/ana-sarah-cassimiro-fagundes-35575b2a9/
 
 ---
 
