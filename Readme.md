@@ -1,8 +1,8 @@
-# Olá! 👋 Eu sou Ana Sara Cassimiro Fagundes
+#Olá! 👋 Eu sou Ana Sara Cassimiro Fagundes
 
-Sou estudante de Desenvolvimento Full Stack e estou construindo meu portfólio com projetos em Python, HTML, CSS e JavaScript.  
+Sou desenvolvedora em formação, apaixonada por tecnologia e programação. Atualmente estou me dedicando a cursos de programação para construir uma base sólida em desenvolvimento Full Stack.
 
-Atualmente estou focada em aprender novas tecnologias e melhorar minhas habilidades para me tornar uma desenvolvedora completa.  
+Estou construindo meu portfólio com projetos práticos em Python, HTML, CSS e JavaScript, e focada em aprender novas tecnologias para me tornar uma desenvolvedora completa.
 
 ---
 
