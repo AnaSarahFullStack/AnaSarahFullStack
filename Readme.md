@@ -28,8 +28,3 @@ Estou construindo meu portfólio com projetos práticos em Python, HTML, CSS e J
 </a>
 </div>
 
----
-
-## 💼 Projetos
-> Aqui você pode adicionar seus projetos no GitHub à medida que forem sendo concluídos.
-
