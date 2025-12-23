@@ -24,6 +24,7 @@ Estou construindo meu portfólio com projetos práticos em Python, HTML, CSS e J
 <div align="center">
 <h3> ✉️ Entre em contato</h3>
 <a href="mailto:anasara.cassimiro@gmail.com">
+  <img src="https://img.shields.io/badge/-anasara.cassimiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
 </a>
 </div>
 
