@@ -21,7 +21,9 @@ Estou construindo meu portfólio com projetos práticos em Python, HTML, CSS e J
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaSarah&layout=compact&theme=radical&locale=pt-br)
 
 ## 📫 Contato
-[![LinkedIn]https://www.linkedin.com/in/ana-sarah-cassimiro-fagundes-35575b2a9/
+[![LinkedIn]https://www.linkedin.com/in/ana-sarah-cassimiro-35575b2a9/
+[![E-mail]anasara.cassimiro@gmail.com
+
 
 ---
 
