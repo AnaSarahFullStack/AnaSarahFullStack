@@ -25,7 +25,7 @@ Estou construindo meu portfólio com projetos práticos em Python, HTML, CSS e J
 <h3> ✉️ Entre em contato</h3>
 <a href="mailto:anasara.cassimiro@gmail.com">
 </a>
-</div>div>
+</div>
 
 ---
 
